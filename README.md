@@ -1,4 +1,4 @@
-#Build a Game with Javascript
+# Build a Game with Javascript
 Overview
 	Use Javascript to complete key functions to run a hot and cold app.
 	Follow the instructions for challenges on the ReadMe and in the app.js file.
