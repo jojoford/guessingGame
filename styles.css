@@ -18,5 +18,23 @@ h1{
 }
 .game{
   margin: 150 auto 0;
+  width: 500px;
+  min-height: 300px;
+  baackground-color: #6799ff;
+  padding-top: 30px;
 }
-  
+input {
+  font-size: 20px;
+  padding: 3px
+    border: none;
+}
+
+#js-user-guess {
+width: 250px;
+}
+
+#js-guess-submit{
+  background-color: gray;
+  color: #6799ff
+    width: 100px;
+}
