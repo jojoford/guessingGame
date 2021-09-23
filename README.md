@@ -9,7 +9,7 @@ Step 2: Assigning your random number to a variable. Once you've got your random 
 Step 3: Checking the user's guess. Finally, we need a function that checks whether or not the user's guess matches the randomly generated number. Fill in the rest of this declared function with an if/else statement that gives feedback to the user on whether or not they got the right number.
 Working version: Here's a link to a working version of the app.
 Helpful Links
-	Javascript Functions
+##	Javascript Functions
 	Javascript Variables
 	Javascript Operators
 	Math.random
