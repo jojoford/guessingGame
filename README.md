@@ -12,7 +12,7 @@
 **Step 3: Checking the user's guess.** Finally, we need a function that checks whether or not the user's guess matches the randomly generated number. Fill in the rest of this declared function with an if/else statement that gives feedback to the user on whether or not they got the right number.
 *Working version:* Here's a [link ](https://tf-number-guessing-game-answer-key.glitch.me/) to a working version of the app.
 ## Helpful Links
-* [	Javascript Functions] (https://www.w3schools.com/js/js_functions.asp)
+* [Javascript Functions](https://www.w3schools.com/js/js_functions.asp)
 * [Javascript Variables](https://www.w3schools.com/js/js_variables.asp)
 *	[Javascript Operators](https://www.w3schools.com/js/js_operators.asp)
 *	[Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
