@@ -1,5 +1,7 @@
 $(document).ready(function(){
-function myFunction(guess){}
+function myFunction(guess)
+  return Math.floor(Math.random() * 100) +1;
+}
 
 $("form").submit(function(event) {
   event.preventDefault();
